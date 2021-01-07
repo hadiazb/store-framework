@@ -7,9 +7,7 @@
     "rich-text": {
       "props": {
         "text": "**Hello, World!**",
-        "textPosition": "RIGHT",
-        "font": "t-heading-5",
-        "blockClass": "help-message"
+        "textAlignment": "RIGHT"
       }
     }
 }
